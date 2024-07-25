@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hey! 👋, Soy Ruben Reyes</h1>
 
-<!--
-**redareyes03/redareyes03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software con **1 año de experiencia** en desarrollo web y aplicaciones móviles. He colaborado en proyectos significativos como **e-UANL**, enfocado en el desarrollo Android.
 
-Here are some ideas to get you started:
+## Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes**: JavaScript, SQL, Kotlin
+- **Frameworks y Tecnologías**: Adonisjs, PostgreSQL, Jetpack Compose
+- **Herramientas**: Git, Android Studio, VS Code
+
+## Experiencia
+
+- **Desarrollador Web**: Creación de aplicaciones robustas y escalables con Adonisjs y PostgreSQL.
+- **Desarrollador Android**: Implementación de interfaces y funcionalidades en e-UANL usando Jetpack Compose.
+
+## Educación
+
+Estudiante de **Ciencias de la Computación**, adquiriendo una sólida base teórica y práctica.
+
+## Fortalezas
+
+- **Rápido Aprendizaje**: Capacidad para adaptarme a nuevas tecnologías y metodologías.
+- **Colaboración Efectiva**: Habilidad para trabajar en equipo y contribuir significativamente a proyectos.
+
+---
+
+*¡Explora mis repositorios y proyectos para ver más sobre mi trabajo!*

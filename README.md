@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋, Soy Ruben Reyes</h1>
 
-Desarrollador de software con **1 año de experiencia** en desarrollo web y aplicaciones móviles. He colaborado en proyectos significativos como **e-UANL**, enfocado en el desarrollo Android.
+Desarrollador de software con **2 años de experiencia** en desarrollo web y aplicaciones móviles. He colaborado en proyectos significativos como **e-UANL**, enfocado en el desarrollo Android.
 
 ## Habilidades Técnicas
 
